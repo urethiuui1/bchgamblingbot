@@ -15,6 +15,9 @@ If the number is 0.777 a fix amount of Bitcoin Cash gets sent to the wallet addr
 
 After the game the player retrieves the server seed in plain text and can verify that the game was fair.
 
+![new](https://user-images.githubusercontent.com/81405270/152773002-20226fe5-01ff-4a49-b056-f97d42b38728.jpg)
+
+
 ## How to run the bot
 
 Simply enter the Telegram bot token, public and private key of your hot wallet into the scripts and run tgbot.py, worker.py and pay.py
